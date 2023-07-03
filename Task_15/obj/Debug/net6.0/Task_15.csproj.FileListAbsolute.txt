@@ -1,0 +1,15 @@
+D:\Hyb\GB\C#\DZ_2\DZ_2\Task_15\bin\Debug\net6.0\Task_15.exe
+D:\Hyb\GB\C#\DZ_2\DZ_2\Task_15\bin\Debug\net6.0\Task_15.deps.json
+D:\Hyb\GB\C#\DZ_2\DZ_2\Task_15\bin\Debug\net6.0\Task_15.runtimeconfig.json
+D:\Hyb\GB\C#\DZ_2\DZ_2\Task_15\bin\Debug\net6.0\Task_15.dll
+D:\Hyb\GB\C#\DZ_2\DZ_2\Task_15\bin\Debug\net6.0\Task_15.pdb
+D:\Hyb\GB\C#\DZ_2\DZ_2\Task_15\obj\Debug\net6.0\Task_15.csproj.AssemblyReference.cache
+D:\Hyb\GB\C#\DZ_2\DZ_2\Task_15\obj\Debug\net6.0\Task_15.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hyb\GB\C#\DZ_2\DZ_2\Task_15\obj\Debug\net6.0\Task_15.AssemblyInfoInputs.cache
+D:\Hyb\GB\C#\DZ_2\DZ_2\Task_15\obj\Debug\net6.0\Task_15.AssemblyInfo.cs
+D:\Hyb\GB\C#\DZ_2\DZ_2\Task_15\obj\Debug\net6.0\Task_15.csproj.CoreCompileInputs.cache
+D:\Hyb\GB\C#\DZ_2\DZ_2\Task_15\obj\Debug\net6.0\Task_15.dll
+D:\Hyb\GB\C#\DZ_2\DZ_2\Task_15\obj\Debug\net6.0\refint\Task_15.dll
+D:\Hyb\GB\C#\DZ_2\DZ_2\Task_15\obj\Debug\net6.0\Task_15.pdb
+D:\Hyb\GB\C#\DZ_2\DZ_2\Task_15\obj\Debug\net6.0\Task_15.genruntimeconfig.cache
+D:\Hyb\GB\C#\DZ_2\DZ_2\Task_15\obj\Debug\net6.0\ref\Task_15.dll
